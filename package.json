@@ -1,0 +1,15 @@
+{
+  "name": "machinelabs-local-firebase-server",
+  "version": "1.0.0",
+  "description": "Firebase server for local testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pascal Precht <pascal@thoughtram.io>",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^3.6.4",
+    "firebase-server": "^0.7.1"
+  }
+}
